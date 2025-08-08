@@ -4,7 +4,7 @@ O OJS e o OMP utilizam a sintaxe [LESS](http://lesscss.org/) para escreverem o c
 
 A seguir um exemplo de um arquivo LESS que utiliza uma variável para a cor de fundo (background) de um cabeçalho(header) e um rodapé(footer).
 
-```less
+```
 @background: red;
 
 .pkp_structure_head,
@@ -15,7 +15,7 @@ A seguir um exemplo de um arquivo LESS que utiliza uma variável para a cor de f
 
 Isto torna-se mais útil quando queremos usar a mesma cor de fundo na borda de um elemento `<button>`.
 
-```less
+```
 @background: red;
 
 .pkp_structure_head,
@@ -27,15 +27,15 @@ button {
   border-color: @background;
 }
 ```
+
 Conforme uma folha de estilos cresce, você poderá querer dividir seus estilos em diferentes arquivos de modo que fique mais fácil lidar com as formatações. LESS permite que você importe arquivos separados e compartilhe variáveis entre eles.
 
-
-```less
+```
 // styles/variable.less
 @background: red;
 ```
 
-```less
+```
 // styles/structure.less
 .pkp_structure_head,
 .pkp_structure_footer {
@@ -43,14 +43,14 @@ Conforme uma folha de estilos cresce, você poderá querer dividir seus estilos 
 }
 ```
 
-```less
+```
 // styles/forms.less
 button {
   border-color: @background;
 }
 ```
 
-```less
+```
 // styles/index.less
 // Agora podemos combinar todos os arquivos em um único arquivo.
 @import "variables"
@@ -67,15 +67,14 @@ styles/structure.less
 styles/forms.less
 ```
 
-Caso o seu periódico decida alterar sua identidade visual do vermelho(_red_) para azul(_blue_), você precisará apenas atualizar uma linha no código do seu tema:
+Caso o seu periódico decida alterar sua identidade visual do vermelho(<em x-id="4">red</em>) para azul(<em x-id="4">blue</em>), você precisará apenas atualizar uma linha no código do seu tema:
 
-```less
+```
 // styles/variable.less
 @background: blue; // antes era ´red´
 ```
 
 Antes de seus estilos aparecerem é necessário certificar-se que eles foram compilados e carregados com seu tema personalizado. Isto pode ser feito utilizando-se o método `addStyle` da [API de Tema](theme-api.md).
-
 
 ```php
 class DefaultThemePlugin extends ThemePlugin {
@@ -89,4 +88,5 @@ class DefaultThemePlugin extends ThemePlugin {
 
 A [API de Tema](theme-api.md) será discutida com mais detalhes nas seções seguintes deste guia.
 
-*Caso a utilização de LESS pareça  muito complicada, você pode ainda escrever CSS simples (_plain_) que também funcionará do mesmo modo. Você precisa apenas salvar o arquivo com a extensão `.less` no nome.* O poder de utilização de LESS ao invés do CSS puro torna-se mais claro quando você explorar as funcionalides de ampliar temas existentes com [Temas Filhos(_Child Themes_)](child-themes.md).
+_Caso a utilização de LESS pareça  muito complicada, você pode ainda escrever CSS simples (_plain_) que também funcionará do mesmo modo. Você precisa apenas salvar o arquivo com a extensão `.less` no nome._ O poder de utilização de LESS ao invés do CSS puro torna-se mais claro quando você explorar as funcionalides de ampliar temas existentes com [Temas Filhos(_Child Themes_)](child-themes.md).
+
