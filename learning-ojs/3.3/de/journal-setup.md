@@ -27,29 +27,29 @@ Dieses englischsprachige Video der PKP School erklärt, wie das Impressum in OJS
 
 {% include video.html id="DMi6izQ7Pyw" provider="youtube" title="Video of how to configure the Masthead in OJS"%}
 
-Der Titel der Zeitschrift ist der Name der Zeitschrift, wie z. B. Zeitschrift für Softwaredokumentation.
+**Zeitschriftentitel** ist der Name der Zeitschrift, wie z. B. Zeitschrift für Softwaredokumentation.
 
-Das Kürzel der Zeitschrift bildet die Initialen der Zeitschrift wie z. B. ZfS.
+Das Kürzel der Zeitschrift bildet die Initialen der Zeitschrift wie z. B. JSD.
 
-Die Zeitschriftenabkürzung ist die Abkürzung Ihres Zeitschriftennamens, wie z. B. Z. f. Sd.
+**Zeitschriftenabkürzung** ist die Abkürzung Ihres Zeitschriftennamens, wie z. B. JSoftDoc.
 
-\*\*Unter Verlag, Organisation findet sich der Name des Verlages oder der Organisation, bei der die Zeitschrift publiziert wird.
+**Herausgeber** ist der Name des Verlages oder der Organisation, bei der die Zeitschrift publiziert wird.
 
 Der hier eingegebene Verlagsname wird für die Metadaten verwendet, aber erscheint nicht auf der Website der Zeitschrift. Um den Namen des Verlags auf der Website anzeigen zu lassen, kann der Name in den Zeitschrifteneinstellungen unter Kontakt > E-Mail eingeben werden. Der Name kann zudem unter "Über die Zeitschrift" hinzugefügt werden.
 
-**Die ISSN** (International Standard Serial Number) ist eine achtstellige Zahl, die Zeitschriften identifiziert. Sie wird von einem weltweiten Netzwerk von nationalen Zentren geleitet, das von einem internationalen Zentrum mit Sitz in Paris koordiniert wird, unterstützt von der UNESCO und der französischen Regierung. Eine Zahl kann von der [ISSN Website](https://www.issn.org/) bezogen werden. Dies kann jederzeit im Betrieb der Zeitschrift erfolgen.
+Die **ISSN** (International Standard Serial Number) ist eine achtstellige Zahl, die Zeitschriften identifiziert. Sie wird von einem weltweiten Netzwerk von nationalen Zentren geleitet, das von einem internationalen Zentrum mit Sitz in Paris koordiniert wird, unterstützt von der UNESCO und der französischen Regierung. Eine Nummer kann von der [ISSN Website](https://www.issn.org/) bezogen werden. Dies kann jederzeit im Betrieb der Zeitschrift erfolgen.
 
-OJS-Zeitschriften werden in der Regel eine Online-ISSN erhalten. Wenn eine Zeitschrift zudem eine Druckversion veröffentlicht, erfordert dies eine andere ISSN.
+OJS-Zeitschriften werden in der Regel eine Online-ISSN erhalten. Wenn eine Zeitschrift zudem eine Druckversion veröffentlicht, erfordert dies eine weitere Print-ISSN.
 
 Der hier eingegebene Verlagsname wird für die Metadaten verwendet, erscheint aber nicht auf der Website der Zeitschrift. Es wird empfohlen, die ISSN in der Fußzeile der Website hinzuzufügen. Die Fußzeile kann unter Website-Einstellungen > Aussehen > Einrichtung angepasst werden.
 
-**Die Zusammenfassung** der Zeitschrift ist eine kurze Beschreibung der Zeitschrift. Bei einer OJS-Installation mit mehreren Zeitschriften erscheint dieser Text in der Auflistung der Zeitschriften. Die Zeitschriftenübersicht kann auch in den Website-Einstellungen zur Zeitschriften-Homepage hinzugefügt werden.
+**Übersicht** ist eine kurze Beschreibung der Zeitschrift. Bei einer OJS-Installation mit mehreren Zeitschriften erscheint dieser Text in der Auflistung der Zeitschriften. Die Zeitschriftenübersicht kann auch in den Website-Einstellungen zur Zeitschriften-Homepage hinzugefügt werden.
 
-Unter **Redaktion** lassen sich die Namen des Redaktionsteams hinzuzufügen. Dies wird auf der öffentlichen Website unter Über &gt; Redaktion erscheinen.
+Unter **Redaktion** lassen sich die Namen des Redaktionsteams hinzuzufügen. Dies wird auf der öffentlichen Website unter Über > Redaktion erscheinen.
 
 Unter **Über uns** lassen sich alle Informationen über die Zeitschrift hinzuzufügen, die für Leser/innen, Autor/innen oder Gutachter/innen von Interesse sind.
 
-Dies könnten bspw. die Open-Access-Richtlinie, Schwerpunkte und der Umfang der Zeitschrift, der Copyright-Vermerk, die Offenlegung von Sponsoren, die Historie des Journals, eine Datenschutzerklärung oder die Aufnahme in das LOCKS- oder CLOCKSS-Archivsystem beinhalten.
+Dies könnten bspw. die Open-Access-Richtlinie, Schwerpunkte und der Umfang der Zeitschrift, der Copyright-Vermerk, die Offenlegung von Sponsoren, die Historie des Journals, eine Datenschutzerklärung oder die Aufnahme in das LOCKSS- oder CLOCKSS-Archivsystem beinhalten.
 
 Mit dem Speichern-Button lassen sich die vorgenommenen Änderungen speichern.
 
@@ -57,7 +57,7 @@ Mit dem Speichern-Button lassen sich die vorgenommenen Änderungen speichern.
 
 Dieses PKP School Video erklärt, wie man einen Zeitschriftenkontakt hinzufügt. Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
-{% include video.html id="HTDZRG7XEqw" provider="youtube" title="Video zum Ergänzen von Kontaktangaben in OJS"%}
+{% include video.html id="HTDZRG7XEqw" provider="youtube" title="Video of how to add journal contacts in OJS"%}
 
 Dieser Bereich kann genutzt werden, um Kontaktinformationen der Zeitschrift einzutragen.
 
@@ -73,11 +73,11 @@ Mit dem Speichern-Button lassen sich die vorgenommenen Änderungen speichern.
 
 Dieses PKP School Video erklärt, wie man eine Rubrik in OJS konfiguriert. Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
-{% include video.html id="IMotkKrDZyc" provider="youtube" title="Video zum Konfigurieren von Rubriken in OJS"%}
+{% include video.html id="IMotkKrDZyc" provider="youtube" title="Video of how to configure sections in OJS"%}
 
-Auf dieser Seite lassen sich die Rubriken der Zeitschrift anlegen und konfigurieren, wie zum Beispiel Artikel, Editorials, Reviews, Kommentare. wie zum Beispiel Artikel, Editorials, Rezensionen, Kommentare. OJS benötigt mindestens eine Rubrik und erstellt standardmäßig eine Rubrik "Artikel". Es lassen sich neue Rubriken erstellen, bestehende Rubriken bearbeiten oder Rubriken löschen. Über die Rubriken lassen sich Autor/innen einer Einreichung zuweisen. Zudem werden sie verwendet, um die Artikel in den veröffentlichten Ausgaben zu organisieren. Es lassen sich auch einzelne Redakteur/innen bestimmten Rubriken zuordnen. Dieser Teil der Anleitung erklärt, wie sich Sektionen konfigurieren lassen.
+Auf dieser Seite lassen sich die Rubriken der Zeitschrift anlegen und konfigurieren wie zum Beispiel Artikel, Editorials, Rezensionen, Kommentare. OJS benötigt mindestens eine Rubrik und erstellt standardmäßig eine Rubrik "Artikel". Es lassen sich neue Rubriken erstellen, bestehende Rubriken bearbeiten oder Rubriken löschen. Über die Rubriken lassen sich Autor/innen einer Einreichung zuweisen. Zudem werden sie verwendet, um die Artikel in den veröffentlichten Ausgaben zu organisieren. Es lassen sich auch einzelne Redakteur/innen bestimmten Rubriken zuordnen. Dieser Teil der Anleitung erklärt, wie sich Rubriken konfigurieren lassen.
 
-![OJS-Dashboard-Ansicht des Untermenüs Kategorien der Journaleinstellungen mit Links zum Bearbeiten und Hinzufügen einer Kategorie sowie einer bearbeitbaren Liste der aktuellen Kategorien.](./assets/learning-ojs3.2-jm-settings-journal-sections.png)
+![OJS-Dashboard-Ansicht des Untermenüs Rubriken der Zeitschrifteneinstellungen mit Links zum Bearbeiten und Hinzufügen einer Rubrik sowie einer bearbeitbaren Liste der aktuellen Rubriken.](./assets/learning-ojs3.2-jm-settings-journal-sections.png)
 
 Einreichungen können für einzelne Rubriken deaktiviert werden. Das kann beispielsweise sinnvoll sein, wenn eine bestimmte Rubrik nicht mehr verwendet wird und verhindert werden soll, dass Artikel eingereicht werden.
 
@@ -97,7 +97,7 @@ Hier kann der Name oder die Abkürzung der Rubrik verändert werden.
 
 **Rubrikrichtlinie**: Hier lassen sich wichtige Details, wie Einreichungsvoraussetzungen, Begutachtung etc., hinzuzufügen.
 
-**Wortzahl**: Hier lässt sich die Anzahl der Wörter für Zusammenfassungen von Artikeln in dieser Rubrik begrenzen.
+**Wortanzahl**: Hier lässt sich die Anzahl der Wörter für Zusammenfassungen von Artikeln in dieser Rubrik begrenzen.
 
 **Rubrikenoptionen**: Jede Rubrik kann verschiedene Einstellungen haben. Das beinhaltet beispielsweise, ob die Rubrik indexiert wird, begutachtet wird, überhaupt Einreichungen akzeptiert werden oder ob die Rubrik in dem Inhaltsverzeichnis aufgelistet wird.
 
@@ -107,7 +107,7 @@ Einreichungen können für einzelne Rubriken deaktiviert werden. Das kann beispi
 
 Die Option "Wird nicht in den Index der Zeitschrift aufgenommen" kann für Rubriken deaktiviert werden, die das Titelbild, Rückseiten oder andere Inhalte beinhalten, um den Suchindex nicht unnötig zu überladen.
 
-![Ein Fenster zum Eingeben von Wortzahl, Begutachtungsformular und Rubrikeinstellungen.](./assets/learning-ojs3.3-section-options.png)
+![Ein Fenster zum Eingeben von Wortanzahl, Begutachtungsformular und Rubrikeinstellungen.](./assets/learning-ojs3.3-section-options.png)
 
 **Beiträge in der dieser Rubrik kennzeichnen als**: Dies wird nur von einigen Systemen verwendet  und ist daher kein Pflichtfeld.
 
@@ -131,7 +131,7 @@ Jeder Abschnitt erlaubt es, die Einreichungen einzuschränken, indem man auf das
 
 Wenn dieses Kontrollkästchen für alle Rubriken aktiviert ist, können Autor/innen keine Einreichungen in der Zeitschrift tätigen. Autor/innen, die den Link "Neue Einreichung" in ihrem Dashboard anklicken, werden nun die Nachricht "Diese Zeitschrift akzeptiert derzeit keine Einreichungen" sehen.
 
-![Screenshot-Beispiel für Nachrichten, die auf der Neue Einreichung-Seite einer Zeitschrift angezeigt werden.](./assets/learning-ojs3.1-jm-settings-journal-not-accepting-submissions.png)
+![Screenshot-Beispiel für Nachrichten, die auf der "Neue Einreichung"-Seite einer Zeitschrift angezeigt werden.](./assets/learning-ojs3.1-jm-settings-journal-not-accepting-submissions.png)
 
 ### Weitere Rubriken
 
@@ -147,13 +147,13 @@ Eine Rubrik kann nur gelöscht werden, wenn ihr keine Artikel zugewiesen sind. U
 
 ## Kategorien {#categories}
 
-Dieses PKP School Video erklärt, wie man eine Kategorie in OJS anlegt. Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
+Dieses PKP School-Video erklärt, wie man eine Kategorie in OJS anlegt. Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
 {% include video.html id="Y97U1icfEPw" provider="youtube" title="Video zum Anlegen von Kategorien in OJS"%}
 
-In OJS 3 lassen sich Kategorien erstellen, durch die Artikel in thematischen Sammlungen organisiert werden können. Leser/innen wird dadurch die Möglichkeit gegeben, auf die Inhalte der Zeitschrift zuzugreifen. Kategorien können als Browse-Block auf der Zeitschriften-Webseite angezeigt werden und die Leser/innen können eine Kategorie wählen, um alle Artikel in dieser Kategorie anzeigen zu lassen. Ein Artikel lässt sich in einer Kategorie platzieren, indem dessen Metadaten bearbeitet werden. Dies wird im Kapitel [Produktion und Veröffentlichung](./production-publication). In diesem Abschnitt wird erläutert, wie man Kategorien anlegen und bearbeiten kann.
+In OJS 3 lassen sich Kategorien erstellen, durch die Artikel in thematischen Sammlungen organisiert werden können. Leser/innen wird dadurch die Möglichkeit gegeben, auf die Inhalte der Zeitschrift zuzugreifen. Kategorien können als Browse-Block auf der Zeitschriften-Website angezeigt werden und die Leser/innen können eine Kategorie wählen, um alle Artikel in dieser Kategorie anzeigen zu lassen. Ein Artikel lässt sich in einer Kategorie platzieren, indem dessen Metadaten bearbeitet werden. Dies wird im Kapitel [Produktion und Veröffentlichung](./production-publication) beschrieben. In diesem Abschnitt wird erläutert, wie man Kategorien anlegen und bearbeiten kann.
 
-![OJS-Dashboard-Ansicht des Untermenüs Kategorien der Journaleinstellungen mit Links zum Bearbeiten und Hinzufügen einer Kategorie sowie einer bearbeitbaren Liste der aktuellen Kategorien.](./assets/learning-ojs3.1-categories-menu.png)
+![OJS-Dashboard-Ansicht des Untermenüs Kategorien der Zeitschrifteneinstellungen mit Links zum Bearbeiten und Hinzufügen einer Kategorie sowie einer bearbeitbaren Liste der aktuellen Kategorien.](./assets/learning-ojs3.1-categories-menu.png)
 
 Um eine neue Kategorie zu erstellen:
 
@@ -161,7 +161,7 @@ Um eine neue Kategorie zu erstellen:
 - Einen Namen für die Kategorie eingeben, der den Leser/innen angezeigt wird
 - Einen Pfad für die URL der Kategorie auf der Seite eingeben
 - Eine Beschreibung eingeben, die oberhalb der Liste der Artikel in der Kategorie erscheint
-- Otional kann die die Reihenfolge der Artikel nach Datum oder Titel geändert werden
+- Optional kann die Reihenfolge der Artikel nach Datum oder Titel geändert werden
 - Optional lässt sich ein Bild hinzufügen, das oben auf der Seite der Kategorie angezeigt wird
 - "Speichern" klicken
 
@@ -179,4 +179,4 @@ Um eine Kategorie zu löschen:
 - Auf den Entfernen-Link klicken, der erscheint
 - Bestätigen, dass die Kategorie gelöscht werden soll
 
-Um Kategorien auf der Website anzuzeigen, kann unter Website-Einstellungen Aussehen > Seitenleiste der Browser-Block in der Seitenleiste aktiviert werden.
+Um Kategorien auf der Website anzuzeigen, kann unter Website-Einstellungen > Aussehen > Seitenleiste der Browse-Block in der Seitenleiste aktiviert werden.
