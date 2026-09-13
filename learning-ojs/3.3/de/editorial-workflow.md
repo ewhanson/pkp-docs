@@ -614,7 +614,7 @@ Diese Schritte können wiederholt werden, bis eine endgültige Entscheidung übe
 
 Die Einreichung kann nun ins Lektorat gegeben werden. Benutzen Sie dafür den blauen **Einreichung annehmen**-Button.
 
-![Der Button "Ins Lektorat senden" in einem Einreichungsfenster.](./assets/learning-ojs-3-ed-send-to-copyediting.png)
+![Button "Ins Lektorat senden" in einem Einreichungsfenster.](./assets/learning-ojs-3-ed-send-to-copyediting.png)
 
 Es öffnet sich ein neues Fenster.
 
