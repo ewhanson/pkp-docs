@@ -1,5 +1,5 @@
 ---
-book: ojs-lernen
+book: learning-ojs
 version: 3.3
 title: 'OJS 3.3 lernen: Eine visuelle Anleitung zu Open Journal Systems'
 description: Ein umfangreicher visueller Leitfaden zu allen grundlegenden Funktionen und Konfigurationen bezüglich der Veröffentlichung von wissenschaftlichen Artikeln in Open Journal Systems (OJS).

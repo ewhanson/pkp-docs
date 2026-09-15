@@ -1,5 +1,5 @@
 ---
-book: OJS Lernen
+book: learning-ojs
 version: 3.3
 showPageTOC: true
 title: Learning Open Journal Systems 3.3 - Produktion und Veröffentlichung
@@ -376,7 +376,7 @@ Sie können eine Fahnen-Datei oder ein Fahnen-Label auch nachdem Sie es hochgela
 
 Schließlich sollten Sie dem/der Rubrikredakteur/in mitteilen, dass die Fahnen fertiggestellt sind. Verwenden Sie dazu das Panel Diskussion zur Herstellung und wählen Sie den Link Diskussion hinzufügen.
 
-![Erstelle einen Diskussionsbeitrag in OJS, um anzuzeigen, dass die Fahne für das Korrekturlesen bereit ist.](./assets/learning-ojs-3-au-production-galleys-complete.png)
+![Einen Diskussionsbeitrag in OJS erstellen, um anzuzeigen, dass die Fahne für das Korrekturlesen bereit ist.](./assets/learning-ojs-3-au-production-galleys-complete.png)
 
 Fügen Sie den/die Rubrikredakteur/in oben auf der Seite ein, und geben Sie eine Betreffzeile und eine Nachricht ein. Drücken Sie **OK** um die Nachricht zu senden.
 
@@ -396,7 +396,7 @@ Der nächste Schritt bei der Veröffentlichung der Einreichung ist die Überprü
 
 ## Metadaten finalisieren {#finalize-metadata}
 
-Bevor Sie den Beitrag veröffentlichen, sollten Sie überprüfen, ob die Metadaten für den Artikel in OJS vollständig und korrekt sind und mit den Metadaten im PDF übereinstimmen. Dies ist wichtig, um sicherzustellen, dass der Inhalt von Google Scholar indiziert wird, von anderen Diensten gefunden werden kann und für die Leser/innen zugänglich ist. Um mehr über das Erstellen von Metadaten zu erfahren, lesen Sie [die besseren Praktiken Metadaten-Leitfaden für Zeitschriften](/metadata-practices/en/).
+Bevor Sie den Beitrag veröffentlichen, sollten Sie überprüfen, ob die Metadaten für den Artikel in OJS vollständig und korrekt sind und mit den Metadaten im PDF übereinstimmen. Dies ist wichtig, um sicherzustellen, dass der Inhalt von Google Scholar indiziert wird, von anderen Diensten gefunden werden kann und für die Leser/innen zugänglich ist. Um mehr über das Erstellen von Metadaten zu erfahren, lesen Sie den Leitfaden [Better Practices in Journal Metadata](/metadata-practices/en/).
 
 Sie können die Metadaten für die Einreichung überprüfen, indem Sie auf **Einreichungen** klicken, die Einreichung öffnen, den Reiter **Veröffentlichung** öffnen und die Reiter **Titel**, **Beitragende** und **Metadaten** überprüfen.
 
@@ -407,11 +407,11 @@ An dieser Stelle können Sie den Artikel auch einer Kategorie hinzufügen, um ih
 Kategorien können verwendet werden, um Ihre Artikel in thematischen Sammlungen zu organisieren. Wenn Sie in Ihrer Zeitschrift Kategorien verwenden, können Sie den Artikel optional zu einer oder mehreren Kategorien hinzufügen. Eine Anleitung zum Erstellen von Kategorien finden Sie im [Kapitel Zeitschrifteneinstellungen](./journal-setup). Sie können den Artikel zu einer Kategorie hinzufügen, indem Sie seine Metadaten bearbeiten.
 
 - Wechseln Sie in der Artikel-Einreichung zum Reiter **Veröffentlichung**
-- Klicken Sie auf "Ausgabe"
+- Klicken Sie auf **Ausgabe**
 - Markieren Sie im Feld **Kategorien** die Kategorien, zu denen Sie den Artikel hinzufügen möchten
 - Klicken Sie auf **Speichern**
 
-![Unterregisterkarte „Ausgabe“ in der Registerkarte „Manuskripte Veröffentlichung“. zeigt Optionen zum Zuweisen von Ausgaben, Rubriken und Kategorien.](./assets/learning-ojs3.2-ed-prod-add-to-category.png)
+![Unterregisterkarte „Ausgabe“ in der Registerkarte "Veröffentlichung“ des Manuskripts. Zeigt Optionen zum Zuweisen von Ausgaben, Rubriken und Kategorien.](./assets/learning-ojs3.2-ed-prod-add-to-category.png)
 
 ### Referenzen extrahieren und speichern
 
@@ -425,7 +425,7 @@ Als Erstes müssen Sie Referenzen als Metadatenfeld für Beiträge aktivieren.
 
 - fordern Sie bei der Einreichung keine Referenzen von den Autor/innen an - das Feld „Referenzen“ wird nicht auf dem Einreichungsformular erscheinen, stattdessen können die Referenzen von den Redakteur/innen hinzugefügt werden
 - fordern Sie die Autor/innen auf, bei der Einreichung Referenzen anzugeben - das Feld „Referenzen“ befindet sich auf dem Einreichungsformular, und die Autor/innen können dort optional ihre Referenzen hinzufügen, oder ein/e Redakteur/in kann die Referenzen zu einem späteren Zeitpunkt der Einreichung hinzufügen
-- fordern Sie die Autor/innen auf, dass sie Referenzen angeben, bevor der Beitrag angenommen wird - das Feld „Referenzen“ wird auf dem Antragsformular zu finden sein, und die Autor/innen werden aufgefordert, ihre Referenzen dort einzutragen
+- fordern Sie die Autor/innen auf, Referenzen anzugeben, bevor der Beitrag angenommen wird - das Feld „Referenzen“ wird auf dem Antragsformular zu finden sein, und die Autor/innen müssen ihre Referenzen dort eintragen
 
 4. Klicken Sie auf **Speichern**
 
@@ -433,11 +433,11 @@ Als Erstes müssen Sie Referenzen als Metadatenfeld für Beiträge aktivieren.
 
 Wenn Sie nun den Reiter **Veröffentlichung** eines einreichten Datensatzes aufrufen, sehen Sie darunter einen Reiter **Referenzen**. Ein/e Redakteur/in kann den Reiter öffnen und die Referenzen des Artikels kopieren und in das Feld einfügen. Wenn Sie die zweite oder dritte der oben aufgeführten Optionen ausgewählt haben, gibt es außerdem ein Feld **Referenzen**, wenn ein/e Autor/in einen Beitrag einreicht. Der/die Autor/in kann dort seine/ihre Referenzen hinzufügen.
 
-Jeder Verweis sollte in einer eigenen Zeile stehen, und Sie sollten sicherstellen, dass der Text, den Sie in das Feld einfügen, unformatiert ist und keine zusätzlichen Zeilenumbrüche oder Leerzeichen enthält. Entfernen Sie alle DOIs in den Referenzen, wenn Sie diese später mit dem Plugin Crossref Reference Linking hinzufügen möchten.
+Jeder Verweis sollte in einer eigenen Zeile stehen, und Sie sollten sicherstellen, dass der Text, den Sie in das Feld einfügen, unformatiert ist und keine zusätzlichen Zeilenumbrüche oder Leerzeichen enthält. Entfernen Sie alle DOIs in den Referenzen, wenn Sie diese später mit dem Plugin "Crossref Reference Linking" hinzufügen möchten.
 
 Wenn der Artikel veröffentlicht wird, erscheinen die Referenzen auf der Artikelseite und die Referenzen werden an CrossRef übermittelt.
 
-Nachdem Sie die Metadaten des Artikels zu Crossref exportiert haben, können Sie die DOIs für die Artikelreferenzen von Crossref einfügen, indem Sie das Plugin Crossref Reference Linking verwenden.  Anweisungen zur Verwendung des Plugins finden Sie in der [Crossref Plugin Anleitung](https://docs.pkp.sfu.ca/crossref-ojs-manual/en/references).
+Nachdem Sie die Metadaten des Artikels zu Crossref exportiert haben, können Sie die DOIs für die Artikelreferenzen von Crossref einfügen, indem Sie das Plugin "Crossref Reference Linking" verwenden. Anweisungen zur Verwendung des Plugins finden Sie in der [Crossref Plugin Anleitung](https://docs.pkp.sfu.ca/crossref-ojs-manual/en/references).
 
 Sobald Sie das Plugin eingerichtet und die Metadaten des Artikels zu Crossref exportiert haben, können Sie die DOIs aus Crossref wieder in die Referenzen einfügen:
 
@@ -448,7 +448,7 @@ Sobald Sie das Plugin eingerichtet und die Metadaten des Artikels zu Crossref ex
 
 ## Ausgabe erstellen {#create-issue}
 
-{% include video.html id="opvVBWYnHho" provider="youtube" title="Video zum Einrichten eines Journals in OJS 3.3. Modul 7: Ausgabe"%}
+{% include video.html id="opvVBWYnHho" provider="youtube" title="Video of Setting up a journal in OJS 3.3. Modul 7: Issues"%}
 
 In diesem Video der PKP School wird erklärt, wie man Ausgaben erstellt, bearbeitet, veröffentlicht und verwaltet. Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
@@ -468,7 +468,7 @@ Sie sehen Reiter für zukünftige Ausgaben und frühere Ausgaben.
 
 Um eine neue Ausgabe zu erstellen, klicken Sie auf den Link **Ausgabe erstellen** und füllen Sie das Formular aus.
 
-![Formular für neue Ausgabe erstellen.](./assets/learning-ojs-3-issues-create.png)
+![Formular für neue Ausgabe.](./assets/learning-ojs-3-issues-create.png)
 
 Es gibt Felder zum Hinzufügen von Band, Nummer, Jahr und Titelinformationen (z. B. Sonderausgabe Nr. 1) sowie eine Beschreibung, ein Titelbild und eine eigene URL. Wenn Sie ein Titelbild und eine Beschreibung hinzufügen, erscheinen diese oben auf der Seite der Ausgabe auf Ihrer Website. Wenn Sie Band, Nummer und Titel unten ausgewählt haben, müssen Sie in jedes Feld etwas eintragen.
 
@@ -505,9 +505,9 @@ Sie können die Abschnitte auch per Drag & Drop verschieben, um die Reihenfolge 
 Wenn Sie die Reihenfolge der Abschnitte pro Ausgabe oder die Reihenfolge der Artikel innerhalb eines Abschnitts ändern möchten:
 
 - Gehen Sie zu **Ausgaben** und öffnen Sie die Ausgabe, die Sie bearbeiten möchten
-- Klicken Sie auf **Sortieren**
-- Ziehen Sie die Abschnitte und Artikel an die gewünschte Stelle
-- Klicken Sie auf **Fertig**, wenn Sie damit fertig sind
+- Klicken Sie auf **Sortieren**.
+- Ziehen Sie die Abschnitte und Artikel an die gewünschte Stelle.
+- Klicken Sie auf **Fertig**, wenn Sie damit fertig sind.
 
 ### Vorschau von Ausgaben und Artikeln
 
@@ -518,10 +518,10 @@ Wenn Sie vor der Veröffentlichung sehen möchten, wie Ihre Artikel aussehen wer
 Wenn Sie vor der Veröffentlichung sehen möchten, wie Ihre Artikel im Rahmen einer Ausgabe aussehen werden, können Sie die Funktion Ausgabenvorschau verwenden:
 
 - Klicken Sie auf den blauen Pfeil neben der zukünftigen Ausgabe
-- Klicken Sie auf **Vorschau**
+- Klicken Sie auf **Vorschau**.
 - Die Seite mit der Ausgabenvorschau wird geöffnet. Um einen Artikel in der Vorschau anzuzeigen, klicken Sie auf den Titel des Artikels im Inhaltsverzeichnis.
 
-![Bd. 10 Nr. 10 (2019) unter Zukünftige Ausgaben mit blauem Pfeil erweitert, um zusätzliche Optionen für Bearbeiten, Vorschau, Ausgabe veröffentlichen oder Löschen anzuzeigen](./assets/learning-ojs-3.2-ed-production-publish-issue.png)
+![Bd. 10 Nr. 10 (2019) unter Zukünftige Ausgaben mit blauem Pfeil erweitert, um zusätzliche Optionen für Bearbeiten, Vorschau, Ausgabe Veröffentlichen oder Löschen anzuzeigen](./assets/learning-ojs-3.2-ed-production-publish-issue.png)
 
 ### Ausgabe veröffentlichen
 
@@ -531,7 +531,7 @@ Wenn Sie mit der Ausgabe zufrieden sind, klicken Sie auf den Link **Ausgabe ver�
 
 Sie haben die Möglichkeit, eine Benachrichtigung über die neue Ausgabe an die Benutzer/innen zu senden.
 
-Um keine Benachrichtigung über eine neue Ausgabe zu versenden, deaktivieren Sie das Kästchen neben „Benachrichtigungs-E-Mail an alle registrierten Benutzer/innen senden“, bevor Sie auf **OK klicken**.
+Um keine Benachrichtigung über eine neue Ausgabe zu versenden, deaktivieren Sie das Kästchen neben „Benachrichtigungs-E-Mail an alle registrierten Benutzer/innen senden“, bevor Sie auf **OK** klicken.
 
 ![Option, die Leser bei der Veröffentlichung der Ausgabe zu benachrichtigen.](./assets/learning-ojs-3.2-ed-production-reader-notify.png)
 
@@ -539,7 +539,7 @@ Der Inhalt der Ankündigung wird automatisch erstellt und kann nicht bearbeitet 
 
 ### Ausgabe zurückziehen
 
-Verwenden Sie den Link **Ausgabe zurückziehen**, um die Ausgabe und ihren gesamten Inhalt aus der öffentlichen Ansicht zu entfernen. Die Ausgabe wird auf die Registerkarte Zukünftige Ausgaben zurückgesetzt.
+Verwenden Sie den Link **Ausgabe zurückziehen**, um die Ausgabe und ihren gesamten Inhalt aus der öffentlichen Ansicht zu entfernen. Die Ausgabe wird auf die Registerkarte "Zukünftige Ausgaben" zurückgesetzt.
 
 ### Ausgabe löschen
 
@@ -553,7 +553,7 @@ Nachdem Sie nun eine Ausgabe erstellt haben, können Sie den Artikel zu dieser A
 - Suchen und öffnen Sie die Einreichung, die Sie veröffentlichen möchten
 - Gehen Sie zum Reiter **Veröffentlichung** und dann auf **Ausgabe**
 - Wählen Sie im Feld **Ausgabe** die Ausgabe aus, in der Sie den Artikel veröffentlichen möchten
-- Der **Abschnitt** wird automatisch auf der Basis der Metadaten der Einreichung ausgefüllt, Sie können ihn jedoch bei Bedarf ändern
+- Die **Rubrik** wird automatisch auf der Basis der Metadaten der Einreichung ausgefüllt, Sie können ihn jedoch bei Bedarf ändern
 - Sie können eine **Kategorie** auswählen, falls Sie dies noch nicht getan haben (siehe oben)
 - Wenn Sie möchten, dass ein Bild auf der Artikelseite erscheint, laden Sie es unter **Titelbild** hoch
 - Sie können **Seitenzahlen** hinzufügen, die in die Metadaten und das Inhaltsverzeichnis aufgenommen werden
@@ -566,7 +566,7 @@ Nachdem Sie nun eine Ausgabe erstellt haben, können Sie den Artikel zu dieser A
 
 Der nächste Schritt besteht darin, den Artikel für die Veröffentlichung vorzusehen. Obwohl der Artikel erst veröffentlicht wird, wenn die Ausgabe, der er zugewiesen ist, erscheint, ist der Schritt „Zur Veröffentlichung vorsehen“ der letzte Schritt, um zu bestätigen, dass der Artikel zur Veröffentlichung bereit ist.
 
-Nur eine Redakteur/in der Zeitschrift kann einen Artikel zur Veröffentlichung vormerken, nicht aber ein/e Rubrikredakteur/in oder Gastredakteur/in.
+Nur ein/e Redakteur/in der Zeitschrift kann einen Artikel zur Veröffentlichung vormerken, nicht aber ein/e Rubrikredakteur/in oder Gastredakteur/in.
 
 Der Artikel muss einer Ausgabe zugewiesen worden sein und die Begutachtung durchlaufen haben, damit er zur Veröffentlichung geplant werden kann.
 
@@ -574,7 +574,7 @@ Wenn Sie bereit sind, den Artikel zu veröffentlichen:
 
 - Öffnen Sie die Einreichung
 - Gehen Sie zum Reiter **Veröffentlichung**
-- Klicken Sie auf den blauen Button Zur **Veröffentlichung vorsehen**.
+- Klicken Sie auf den blauen Button **Zur Veröffentlichung vorsehen**.
 
 ![Die Registerkarte Veröffentlichung enthält Unterregisterkarten und die Option „Vorschau“ und „Ausgabe planen“ sowie Sprachumschaltungen zur Eingabe von Metadaten in Französisch (Kanada) und Englisch.](./assets/learning-ojs3.2-ed-prod-schedule-for-pub.png)
 
@@ -590,7 +590,7 @@ Unter **Veröffentlichungsdatum** können Sie das Veröffentlichungsdatum eingeb
 
 ![Registerkarte mit einer Veröffentlichungsregisterkarte und dem hervorgehobenen Datumsfeld.](./assets/learning-ojs-3.2-ed-production-schedule-individual.png)
 
-Damit eine einzelne Veröffentlichung geplant werden kann, muss sie einer Ausgabe zugeordnet sein und die Begutachtung durchlaufen haben.
+Damit eine individuelle Veröffentlichung geplant werden kann, muss der Artikel einer Ausgabe zugeordnet sein und die Begutachtung durchlaufen haben.
 
 Ist das Datum auf ein zukünftiges Datum festgelegt, sollte die Veröffentlichung an dem eingetragenen Datum erfolgen.
 
@@ -598,11 +598,11 @@ Wenn das geplante Manuskript aus der Ausgabe herausgenommen wird, sollte das zuv
 
 ## Versionierung von Artikeln
 
-Die Möglichkeit, Versionen von Artikeln zu veröffentlichen, ist eine der wichtigsten Neuerungen in OJS 3.2. Diese Funktion unterstützt die Veröffentlichung von Preprints und die Veröffentlichung neuer Versionen von Artikeln, wenn eine Korrektur oder wesentliche Änderung vorgenommen wurde. Mit der Versionierungsfunktion können Sie verschiedene Versionen eines Artikels verwalten und klar angeben, welche die aktuellste ist.
+Die Möglichkeit, Versionen von Artikeln zu veröffentlichen, war eine der wichtigsten Neuerungen in OJS 3.2. Diese Funktion unterstützt die Veröffentlichung von Preprints und die Veröffentlichung neuer Versionen von Artikeln, wenn eine Korrektur oder wesentliche Änderung vorgenommen wurde. Mit der Versionierungsfunktion können Sie verschiedene Versionen eines Artikels verwalten und klar angeben, welche die aktuellste ist.
 
 Sobald ein Artikel veröffentlicht ist, können weder Metadaten noch Druckfahnen bearbeitet werden. Wenn eine Überarbeitung eines veröffentlichten Artikels oder der Metadaten erforderlich ist, kann dies auf zwei Arten geschehen:
 
-![Veröffentlichungsregisterkarte mit den hervorgehobenen Optionen, die verfügbar sind, nachdem der Artikel veröffentlicht wurde. Dabei kann man eine neue Version des Artikels erstellen oder den Artikel zurückziehen.](./assets/learning-ojs-3.2-ed-production-versioning-ways.png)
+![Registerkarte Veröffentlichung mit den hervorgehobenen Optionen, die verfügbar sind, nachdem der Artikel veröffentlicht wurde. Dabei kann man eine neue Version des Artikels erstellen oder den Artikel zurückziehen.](./assets/learning-ojs-3.2-ed-production-versioning-ways.png)
 
 **Option 1: Veröffentlichung zurückziehen und neu veröffentlichen**
 
@@ -612,9 +612,9 @@ Das Zurückziehen eines Artikels ermöglicht es Ihnen, Änderungen vorzunehmen, 
 
 Wenn Sie eine neue Version erstellen, können Sie Änderungen an den Metadaten und/oder den Druckfahnen vornehmen. Achten Sie darauf, dass Sie unten rechts auf **Speichern** klicken, um die Änderungen zu speichern.
 
-Sie können die Aktualisierungen der Versionen unter **Alle Versionen** verfolgen. Jede Version ist durch eine Nummer und das Veröffentlichungsdatum gekennzeichnet. Die Version, die gerade aktualisiert wird, ist mit einer Nummer und **Unveröffentlicht** gekennzeichnet.
+Sie können die Aktualisierungen der Versionen unter **Alle Versionen** verfolgen. Jede Version ist durch eine Nummer und das Veröffentlichungsdatum gekennzeichnet. Die Version, die gerade bearbeitet wird, ist mit einer Nummer und **Unveröffentlicht** gekennzeichnet.
 
-![Die Registerkarte „Veröffentlichung“ des Manuskripts zeigt eine Liste aller für diesen Artikel verfügbaren Versionen. Der Artikel hat zurzeit vier veröffentlichte Versionen und eine unveröffentlichte Version.](./assets/learning-ojs-3.2-ed-production-all-versions.png)
+![Die Registerkarte „Veröffentlichung“ des Manuskripts zeigt eine Liste aller für diesen Artikel verfügbaren Versionen. Der Artikel hat zurzeit vier veröffentlichte und eine unveröffentlichte Versionen.](./assets/learning-ojs-3.2-ed-production-all-versions.png)
 
 Sobald Ihre Änderungen abgeschlossen sind, können Sie die neue Version veröffentlichen, indem Sie oben rechts auf **Veröffentlichen** klicken. Wenn der Artikel einer veröffentlichten Ausgabe zugewiesen ist, wird er sofort verfügbar sein. Die Leser/innen werden nicht benachrichtigt, da die Benachrichtigung bei der Veröffentlichung einer Ausgabe und nicht bei der Veröffentlichung einzelner Artikel erfolgt.
 
@@ -628,15 +628,15 @@ Beispiel für eine Meldung über eine veraltete Version auf der Artikelseite:
 
 ![Benachrichtigung über eine veraltete Version auf der Artikelseite und Aufforderung zum Lesen der aktuellsten Version.](./assets/learning-ojs-3.2-ed-production-outdated-version.png)
 
-Beispiel für eine Meldung über eine veraltete Version auf der PDF- Druckfahnenseite:
+Beispiel für eine Meldung über eine veraltete Version auf der PDF-Druckfahnenseite:
 
-![Warnmeldung einer veralteten Version im PDF-Viewer und Aufforderung zum Lesen der aktuellsten Version.](./assets/learning-ojs-3.2-ed-production-outdated-pdf.png)
+![Benachrichtigung über eine veraltete Version im PDF-Viewer und Aufforderung zum Lesen der aktuellsten Version.](./assets/learning-ojs-3.2-ed-production-outdated-pdf.png)
 
 Die URL des Artikels verweist immer auf die neueste Version, wobei frühere Versionen unter der gleichen URL mit der Version am Ende der URL verfügbar sind (z. B. /version/1234/).
 
 ### DOIs und Indexierung von Versionen
 
-Wenn der Originalversion ein DOI zugewiesen wurde, wird dieser nicht automatisch geändert. Zuvor hinterlegte CrossRef-Metadaten werden nicht automatisch aktualisiert. Wenn die Metadaten eines Artikels geändert wurden, empfehlen wir, die CrossRef-Metadaten im CrossRef XML Export Plugin zu aktualisieren, indem der aktualisierte Artikel manuell hinterlegt wird. Informationen zum manuellen Einlegen eines Artikels finden Sie im [CrossRef Plugin Leitfaden - manuelle Eingabe](https://docs.pkp.sfu.ca/crossref-ojs-manual/en/config#manual-deposits) (englischsprachig) von PKP.
+Wenn der Originalversion ein DOI zugewiesen wurde, wird dieser nicht automatisch geändert. Zuvor hinterlegte CrossRef-Metadaten werden nicht automatisch aktualisiert. Wenn die Metadaten eines Artikels geändert wurden, empfehlen wir, die CrossRef-Metadaten im CrossRef XML Export Plugin zu aktualisieren, indem der aktualisierte Artikel manuell hinterlegt wird. Informationen zum manuellen Hinterlegen eines Artikels finden Sie im [CrossRef Plugin Leitfaden - manuelle Eingabe](https://docs.pkp.sfu.ca/crossref-ojs-manual/en/config#manual-deposits) (englischsprachig) von PKP.
 
 Indexierungsdienste und Repositorien, die die OAI zur Erfassung von Metadaten verwenden, müssen die Metadaten des Artikels erneut erfassen, um die neue Version zu aktualisieren.
 
@@ -646,26 +646,26 @@ Erkundigen Sie sich am besten bei einem bestimmten Repositorium oder Index, um z
 
 ## Kontinuierliches Veröffentlichen & Vorschau
 
-Kontinuierliches Publizieren - auch bekannt als kontinuierlicher Veröffentlichungsplan - ist eine Art des Publizierens, bei der die direkte Veröffentlichung von Artikeln priorisiert wird. Bei dem kontinuierlichen Publizieren werden die Artikel veröffentlicht, sobald sie fertig sind. Zeitschriften können auch eine Vorabsicht vor dem Layout anbieten (auch bekannt als online first, in-press, post-print, first view usw.).
+Kontinuierliches Publizieren - auch bekannt als kontinuierlicher Veröffentlichungsplan - ist eine Art des Publizierens, bei der die direkte Veröffentlichung von Artikeln priorisiert wird. Bei dem kontinuierlichen Publizieren werden die Artikel veröffentlicht, sobald sie fertig sind. Zeitschriften können auch eine Vorabansicht vor dem Layout anbieten (auch bekannt als online first, in-press, post-print, first view usw.).
 
 Häufigere Veröffentlichungen können einigen Zeitschriften bei der [Suchmaschinenoptimierung (SEO)](https://docs.pkp.sfu.ca/getting-found-staying-found/en/getting-found-visibility#search-engines) (englischsprachig) helfen und Zeitschriften eine Möglichkeit bieten, häufiger Beiträge in sozialen Medien zu veröffentlichen.
 
-Der Inhalt des Artikels sollte als abgeschlassen gelten und bereits begutachtet sowie lektoriert worden sein. Da die Arbeit sofort zitiert werden kann, sollten Abbildungen und Anhänge vorhanden sein. Um Verwirrung zu vermeiden, sollten Seitenzahlen, die sich noch ändern können, vermieden werden.
+Der Inhalt des Artikels sollte als abgeschlossen gelten und bereits begutachtet sowie lektoriert worden sein. Da die Arbeit sofort zitiert werden kann, sollten Abbildungen und Anhänge vorhanden sein. Um Verwirrung zu vermeiden, sollten Seitenzahlen, die sich noch ändern können, vermieden werden.
 
 OJS ist derzeit für ein traditionelles Veröffentlichungsmodell konzipiert, bei dem die Artikel in Ausgaben veröffentlicht werden. Es gibt jedoch eine Möglichkeit, ein kontinuierliches Veröffentlichungsmodell innerhalb von OJS zu übernehmen.
 
 ### Aktuelle Ausgabe für kontinuierliches Publizieren verwenden
 
-- Erstelle eine [neuen Ausgabe](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#create-issue) (englischsprachig). Ausgaben können in den Ausgabedaten mit einem Titel versehen werden. Es wird empfohlen, einen Titel zu verwenden, der den fortlaufenden Charakter der Ausgabe verdeutlicht.
+- Erstelle eine [neue Ausgabe](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#create-issue) (englischsprachig). Ausgaben können mit einem Titel versehen werden. Es wird empfohlen, einen Titel zu verwenden, der den fortlaufenden Charakter der Ausgabe verdeutlicht.
 - Veröffentlichen Sie die neue Ausgabe: Es ist zwar möglich, eine Ausgabe mit 0 Artikeln zu veröffentlichen, aber eine leere Ausgabe kann für die Leser/innen verwirrend sein. Wir empfehlen, die neue Ausgabe zu veröffentlichen, nachdem mindestens ein Artikel zugewiesen wurde.
-- Wenn der nächste Artikel fertig ist, ordnen Sie ihn der **Aktuellen Ausgabe** zu. Dieser Artikel wird dann sofort auf der Seite der aktuellen Ausgabe veröffentlicht. Wenn Sie DOIs verwenden, stellen Sie sicher, dass Sie die Aktion DOI **zuweisen** vor der Veröffentlichung vornehmen. Wenn Ihre DOI-Registrierung nicht automatisiert ist, registrieren Sie Ihren neuesten DOI manuell.
+- Wenn der nächste Artikel fertig ist, ordnen Sie ihn der **Aktuellen Ausgabe** zu. Dieser Artikel wird dann sofort auf der Seite der aktuellen Ausgabe veröffentlicht. Wenn Sie DOIs verwenden, stellen Sie sicher, dass Sie die Aktion **DOI zuweisen** vor der Veröffentlichung vornehmen. Wenn Ihre DOI-Registrierung nicht automatisiert ist, registrieren Sie Ihren neuesten DOI manuell.
 - Bitte beachten Sie, dass die Standard-DOI-Muster auf der Grundlage von Heftnummern erstellt werden:
   - Wenn Sie vorhaben, ein DOI-Suffix auf der Grundlage der Band-/Ausgabennummerierung zu erzeugen, ändern Sie die Band-/Ausgabennummer später nicht.
   - Wenn Sie beabsichtigen, die Nummerierung der Jahrgänge/Ausgaben zu ändern, generieren Sie kein Suffix unter Verwendung der Standardmuster. Erzeugen Sie stattdessen ein benutzerdefiniertes Muster. Siehe Dokumentation zur [DOI Konfigurierung](https://docs.pkp.sfu.ca/doi-plugin/en/) (englischsprachig) für weitere Details.
-- Nachdem die aktuelle Ausgabe abgeschlossen ist, möchten Sie jene möglicherweise nach der Standard-Namenskonvention der Zeitschrift umbenennen (z. B. Bd. 2, Nr. 5), indem Sie die [Ausgabe bearbeiten](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#edit-issue).
+- Nachdem die aktuelle Ausgabe abgeschlossen ist, möchten Sie diese möglicherweise nach der Standard-Namenskonvention der Zeitschrift umbenennen (z. B. Bd. 2, Nr. 5), indem Sie die [Ausgabe bearbeiten](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#edit-issue).
 - Wenn Sie nur den Titel der Ausgabe geändert haben:
   - Dieses Feld wird nicht in CrossRef, DOAJ oder PubMed exportiert, aber es wird für DataCite verwendet. Wenn Sie DataCite verwenden, denken Sie daran, diesen Datensatz zu aktualisieren, indem Sie die Metadaten über das DataCite-Plugin erneut einreichen.
-- Wenn Sie das [Plugin Citation Style Language](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website#citation-style-language-plugin) in Ihrer Zeitschrift aktiviert haben, sollten Sie dieses Plugin deaktivieren, da Sie aufgrund der sich ändernden Ausgabenummern falsche Zitate im Block „How to Cite“ in Ihren Artikeln haben werden.
+- Wenn Sie das Plugin [Citation Style Language](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website#citation-style-language-plugin) in Ihrer Zeitschrift aktiviert haben, sollten Sie dieses Plugin deaktivieren, da Sie aufgrund der sich ändernden Ausgabenummern falsche Zitate im Block „How to Cite“ in Ihren Artikeln haben werden.
 - Erwägen Sie die [Versionierung von Artikeln](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#versioning-of-articles) zu verwenden, wenn Sie die Vorabversion des Artikels veröffentlichen möchten. Wenn die endgültige Version fertig ist, erstellen Sie eine neue Version und veröffentlichen Sie diese.
 
 Da neue Artikel sofort veröffentlicht werden, kontrollieren Sie die Metadaten und Fahnen auf Korrektheit, indem Sie die [Vorschaufunktion](https://docs.pkp.sfu.ca/learning-ojs/en/production-publication#preview-issue-and-articles) des Artikels verwenden.
@@ -682,7 +682,7 @@ Erstellen Sie eine eigene Seite unter [Navigationsmenü](https://docs.pkp.sfu.ca
 
 Diese Option ist völlig unabhängig vom regulären Workflow für die Einreichung von Artikeln und erfordert ein manuelles Hinzufügen und Entfernen von Artikel-Metadaten und/oder Volltext auf der angelegten Seite.
 
-Auf der leeren benutzerdefinierten Seite können Folgendes angegeben werden:
+Auf der leeren benutzerdefinierten Seite kann Folgendes angegeben werden:
 
 - Eine Liste von Artikeln mit einigen Metadaten und ohne Volltextartikel
 - Eine Liste von Artikeln mit vollständigen Metadaten und ohne Volltextartikel
@@ -698,14 +698,14 @@ Möglicherweise möchten Sie einige Zeitschrifteneinstellungen ändern, um den g
 
 - [Jahr des Copyrights](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution) (englischsprachig): Wählen Sie für ein kontinuierliches Veröffentlichungsmodell das Veröffentlichungsdatum des Artikels. Diese Vorgabe kann in einzelnen Artikeln überschrieben werden.
 - [Richtlinien der Zeitschrift](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup): Kommunizieren Sie den Veröffentlichungsplan innerhalb von "Über die Zeitschrift".
-- [Anpassen der Bezeichnung „Aktuelle Ausgabe“ auf der Homepage](https://docs.pkp.sfu.ca/translating-guide/en/customize-locale#example-customize-the-current-issue-label-on-homepage): Wenn Sie die Bezeichnung „aktuelle Ausgabe" auf der Startseite auf „aktuelle Publikationen“ oder „aktuelle Artikel“ ändern möchten, können Sie dies über das Custom Locale Plugin tun (in OJS 3. oder neuer).
+- [Anpassen der Bezeichnung „Aktuelle Ausgabe“ auf der Homepage](https://docs.pkp.sfu.ca/translating-guide/en/customize-locale#example-customize-the-current-issue-label-on-homepage): Wenn Sie die Bezeichnung „aktuelle Ausgabe" auf der Startseite zu „aktuelle Publikationen“ oder „aktuelle Artikel“ ändern möchten, können Sie dies über das Custom Locale Plugin tun (in OJS 3.2 oder neuer).
 
 ### Kommunikation
 
 Wenn Sie Ihre Leser/innen beim Erscheinen eines neuen Artikels benachrichtigen möchten, erstellen Sie eine individuelle Ankündigung, da die automatische Benachrichtigung über eine neue Veröffentlichung nur bei der Veröffentlichung einer neuen Ausgabe gesendet werden kann. Informationen über Ankündigungen finden Sie im Kapitel [Website-Einstellungen](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website.html#announcements).
 
-Wenn Ihre Zeitschrift zuvor ein traditionelles, auf Ausgaben basierendes Modell verwendet hat und nun zu einem Modell der kontinuierlichen Veröffentlichung übergegangen ist, müssen Sie möglicherweise die Daten von Drittanbietern aktualisieren, einschließlich:
+Wenn Ihre Zeitschrift zuvor ein traditionelles, auf Ausgaben basierendes Modell verwendet hat und nun zu einem Modell der kontinuierlichen Veröffentlichung übergegangen ist, müssen Sie möglicherweise Drittanbieter informieren, einschließlich:
 
-- ISSN: Um den ISSN Datensatz zu aktualisieren, kontaktiere dein [Nationales ISSN-Zentrum](https://www.issn.org/services/requesting-an-issn/contact-an-issn-national-centre/) (englischsprachig)
+- ISSN-Zentrum: Um den ISSN Datensatz zu aktualisieren, kontaktieren Sie Ihr [Nationales ISSN-Zentrum](https://www.issn.org/services/requesting-an-issn/contact-an-issn-national-centre/) (englischsprachig)
 - Verzeichnisse, die die Erscheinungshäufigkeit enthalten
 - Verzeichnisse, die Informationen über den Zeitraum zwischen Einreichung und Veröffentlichung enthalten
