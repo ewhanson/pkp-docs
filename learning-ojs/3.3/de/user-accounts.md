@@ -6,7 +6,7 @@ title: Open Journal Systems 3.3 erlernen - Verwaltung von Benutzer/innenkonten
 description: Ein Leitfaden für die Registrierung und Verwaltung Ihres Benutzer/innenkontos bei Open Journal Systems (OJS).
 ---
 
-# Verwaltung von Benutzer/innenkonten {#registering-with-a-journal}
+# Verwaltung von Benutzer/innenkonten
 
 Dieses englischsprachige PKP School Video erklärt das Benutzer/innen-Dashboard in OJS. Weitere Videos dieser Reihe finden Sie auf dem [YouTube-Kanal von PKP](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
@@ -14,7 +14,7 @@ Dieses englischsprachige PKP School Video erklärt das Benutzer/innen-Dashboard 
 
 Wenn sich Benutzer/innen bei dem System anmelden, landen sie in einem Dashboard. Von hier aus können die Benutzer/innen ihre Profilinformationen oder Kontoeinstellungen ändern und alle Funktionen des Systems sehen, auf die sie Zugriff haben. Gutachter/innen sehen zum Beispiel nur die Beiträge, die sie begutachten sollen, während Redakteur/innen alle Beiträge im Redaktionsworkflow sehen. Weitere Informationen über Rollen und Berechtigungsstufen finden Sie im Kapitel [Benutzer/innen und Rollen](./users-and-roles.md).
 
-## Registrierung bei einer Zeitschrift
+## Registrierung bei einer Zeitschrift {#registering-with-a-journal}
 
 Dieses englischsprachige PKP School Video erklärt, wie sich Benutzer/innen bei einer Zeitschrift in OJS registrieren und anmelden können. Weitere Videos dieser Reihe finden Sie auf dem [YouTube-Kanal von PKP](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
@@ -38,7 +38,7 @@ Sie können sich nicht selbst für eine redaktionelle Rolle (z. B. Redakteur/in,
 
 <hr />
 
-## Ansehen und Ändern des Profils {#viewing-and-changing-your-profile}
+## Ansehen und Ändern des Benutzer/innenprofils {#viewing-and-changing-your-profile}
 
 Dieses englischsprachige PKP School Video erklärt, wie man ein Benutzer/innenprofil in OJS verwaltet. Weitere Videos dieser Reihe finden Sie auf dem [YouTube-Kanal von PKP](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
@@ -59,7 +59,7 @@ Unter **Benachrichtigungen** können Sie konfigurieren, welche Arten von Benachr
 
 In dem Reiter **API-Key** im Benutzer/innenprofil können Sie die REST-API von OJS verwenden, um mit externen Anwendungen zu interagieren.  Die meisten Benutzer/innen werden die API jedoch nicht verwenden und können diese Registerkarte ignorieren.
 
-## Ihr Passwort zurücksetzen {#resetting-your-password}
+## Passwort zurücksetzen {#resetting-your-password}
 
 Sie können Ihr Passwort zurücksetzen, indem Sie:
 
