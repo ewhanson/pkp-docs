@@ -50,7 +50,7 @@ Wenn Sie das Design und Layout Ihrer Website geringfügig ändern möchten, kön
 
 - **Header Hintergrundbild**: Aktivieren Sie diese Option, wenn Sie möchten, dass das hochgeladene Homepage-Bild als Hintergrund angezeigt werden soll.
 
-Weitere Optionen zur Anpassung von graphischen Themen finden Sie in der Anleitung [Journalgestaltung](https://docs.pkp.sfu.ca/designing-your-journal/en/) (englischsprachig). Beachten Sie, dass Änderungen an den Grafischen Themen Auswirkungen auf die Barrierefreiheit von Zeitschriften haben können.
+Weitere Optionen zur Anpassung von graphischen Themen finden Sie in der Anleitung [Designing Your Journal](https://docs.pkp.sfu.ca/designing-your-journal/en/) (englischsprachig). Beachten Sie, dass Änderungen an den Grafischen Themen Auswirkungen auf die Barrierefreiheit von Zeitschriften haben können.
 
 ### Einrichtung {#setup-1}
 
@@ -62,17 +62,17 @@ Hier können Sie Bilder (Logo, Vorschaubild der Zeitschrift, Startseitengrafik) 
 
 - **Fußzeile**: Geben Sie Bilder, Texte oder HTML-Code ein, die am unteren Ende Ihrer Website erscheinen sollen.
 
-- **Seitenleiste**: Hier können Sie verschiedene Blöcke aus der Seitenleiste verschieben und aktivieren bzw. deaktivieren. Du kannst auch einen benutzerdefinierten Block mit dem [Custom Block plugin](./settings-website.md#custom-block-plugin) erstellen
+- **Seitenleiste**: Hier können Sie verschiedene Blöcke aus der Seitenleiste verschieben und aktivieren bzw. deaktivieren. Sie können auch einen benutzerdefinierten Block mit dem [Custom Block plugin](./settings-website.md#custom-block-plugin) erstellen.
 
 ### Fortgeschritten
 
 Hier können Sie Ihr Zeitschriften-Stylesheet, Favicon und weiteren Inhalt hochladen.
 
-- **Style sheet der Zeitschrift**: Verwenden Sie diese Option, um ein individuelles Stylesheet für Ihre Zeitschrift hochzuladen. Anweisungen zur Änderung des CSS sind in der [Gestaltung Ihres Journals: Erstellen eines Stylesheet](https://docs.pkp.sfu.ca/designing-your-journal/en/creating-stylesheet) (englischsprachig) Anleitung verfügbar.
+- **Style sheet der Zeitschrift**: Verwenden Sie diese Option, um ein individuelles Stylesheet für Ihre Zeitschrift hochzuladen. Anweisungen zur Änderung des CSS sind in der [Designing Your Journal: Creating a Stylesheet](https://docs.pkp.sfu.ca/designing-your-journal/en/creating-stylesheet) (englischsprachig) Anleitung verfügbar.
 
 Wenn Sie umfangreichere Anpassungen am Design vornehmen oder Ihrer Website ein vollkommen individuelles Erscheinungsbild verleihen möchten, können Sie ein eigenes Grafisches Thema oder ein "Child-Theme" entwickeln. Anweisungen sind im [PKP Theming Guide](https://docs.pkp.sfu.ca/pkp-theming-guide/en/) (englischsprachig) verfügbar.
 
-- **Zeitschrift Favicon**: Füge ein [favicon](https://en.wikipedia.org/wiki/Favicon) hinzu, um es in der Browser-Adressleiste des Lesers anzuzeigen.
+- **Favicon**: Füge ein [favicon](https://en.wikipedia.org/wiki/Favicon) hinzu, um es in der Browser-Adressleiste des/r Lesers/in anzuzeigen.
 
 - **Weiterer Inhalt**: Jeder hier eingegebene Text wird auf der Startseite Ihrer Zeitschrift angezeigt.
 
@@ -88,7 +88,7 @@ Dieses PKP School-Video erklärt, wie Sie die Informations-Einstellungen in OJS 
 
 Verwenden Sie diese Felder, um die Texte auf den Seiten „Für Leser/innen“, „Für Autor/innen“ und „Für Bibliothekar/innen“ auf der Zeitschriften-Website anzupassen.
 
-![OJS Dashboardansicht des Informationsmenüs mit Infotexten in den Feldern für Leser und Autoren.](./assets/learning-ojs3.1-jm-settings-web-info.png)
+![Die OJS Dashboardansicht des Informationsmenüs mit Infotexten in den Feldern für Leser/innen und Autor/innen.](./assets/learning-ojs3.1-jm-settings-web-info.png)
 
 Vergessen Sie nicht, auf **Speichern** zu klicken, um die Änderung zu übernehmen.
 
@@ -102,9 +102,9 @@ Dieses PKP School-Video erklärt, wie Sie die Spracheinstellungen in OJS konfigu
 
 OJS ist mehrsprachig, das heißt, die Benutzeroberfläche, E-Mails und veröffentlichte Inhalte können in mehreren Sprachen verfügbar sein. Autor/innen können zudem Einreichungen in einer oder mehreren Sprachen auf einer einzelnen Seite oder Zeitschrift vornehmen. Bei der Installation von OJS können Sie eine oder mehrere Sprachen für Ihre Seite auswählen.
 
-Unter Website-Einstellungen Einrichtung > Sprachen sehen Sie eine Liste der auf Ihrer Seite installierten Sprachen oder Sprachvarianten und können konfigurieren, wie die Sprachen in Ihrer Zeitschrift verwendet werden. Überlegen Sie sorgfältig, wie Sie die Sprachen in Ihrer Zeitschrift konfigurieren und verwenden möchten, da erhebliche Probleme auftreten können, wenn Sie die Einstellungen später ändern.
+Unter Website-Einstellungen Einrichtung > Sprachen sehen Sie eine Liste der auf Ihrer Seite installierten Sprachen oder Sprachvarietäten und können konfigurieren, wie diese in Ihrer Zeitschrift verwendet werden. Überlegen Sie sorgfältig, wie Sie die Sprachen in Ihrer Zeitschrift konfigurieren und verwenden möchten, da erhebliche Probleme auftreten können, wenn Sie die Einstellungen später ändern.
 
-![OJS Dashboardansicht des Sprachenmenüs mit englischen und französischen Optionen, englische Option als primäre Sprache ausgewählt.](./assets/learning-ojs3.1-jm-settings-web-lang.png)
+![Die OJS Dashboardansicht des Sprachenmenüs mit englischen und französischen Optionen, englische Option als primäre Sprache ausgewählt.](./assets/learning-ojs3.1-jm-settings-web-lang.png)
 
 - **Primäre Regionaleinstellung**: Es muss eine Sprache als primäre Sprache festgelegt werden, also die Sprache, in der die Zeitschrift standardmäßig angezeigt wird.
 
@@ -112,7 +112,7 @@ Unter Website-Einstellungen Einrichtung > Sprachen sehen Sie eine Liste der auf 
 
 - **Formulare**: Dadurch stehen alle ausgewählten Sprachen beim Ausfüllen von Online-Formularen zur Verfügung. Wenn eine Sprache für Formulare aktiviert ist, unterstützen Textfelder die mehrsprachige Dateneingabe, einschließlich des Reiters „Veröffentlichung“ bei Einreichungen. Beispielsweise können Konfigurationseinstellungen und Metadaten in mehreren Sprachen eingegeben werden.
 
-- **Beträge**: Wenn Autor/innen Beiträge in weiteren Sprachen einreichen können sollen, wählen Sie diese hier aus. Dadurch können Autor/innen beim Einreichen eines Beitrags eine Sprache auswählen und beim Hochladen der Einreichung Metadaten in den ausgewählten Sprachen hinzufügen.
+- **Beiträge**: Wenn Autor/innen Beiträge in weiteren Sprachen einreichen können sollen, wählen Sie diese hier aus. Dadurch können Autor/innen beim Einreichen eines Beitrags eine Sprache auswählen und beim Hochladen der Einreichung Metadaten in den ausgewählten Sprachen hinzufügen.
 
 Zusätzliche Sprachen können von einer Administratorin oder einem Administrator auf Ihrer Seite installiert werden – weitere Informationen finden Sie im Kapitel [Verwaltung der Webseite](./site-administration).
 
@@ -126,7 +126,7 @@ Dieses PKP School-Video erklärt, wie Sie die Navigationseinstellungen in OJS ko
 
 In diesem Abschnitt können Sie Ihre Navigationsmenüs konfigurieren, beispielsweise neue Links hinzufügen.
 
-![OJS Dashboard-Ansicht des Navigationsmenüs mit Benutzer- und Hauptmenüs und eine Option, Navigationsmenüelemente hinzuzufügen oder zu bearbeiten.](./assets/learning-ojs3.1-jm-settings-web-navmenu.png)
+![Die OJS Dashboard-Ansicht des Navigationsmenüs mit Benutzer- und Hauptmenüs und eine Option, Navigationsmenüelemente hinzuzufügen oder zu bearbeiten.](./assets/learning-ojs3.1-jm-settings-web-navmenu.png)
 
 - **Navigationsmenüs**: Konfigurieren Sie das Benutzer/innen-Menü und/oder das Hauptmenü.
 
@@ -136,17 +136,17 @@ Wenn Sie einem Menüeintrag mit Anzeigebedingungen ein Menü zuweisen, sehen Sie
 
 - **Einträge im Navigationsmenü**: Dabei handelt es sich um vordefinierte Links, die Sie dem oben genannten Menü hinzufügen können und die auf vorprogrammierte Bereiche der Website verweisen. Sie können jede dieser Seiten umbenennen, indem Sie auf **Bearbeiten** klicken. Beispielsweise können Sie „Archive“ in „Frühere Ausgaben“ umbenennen.
 
-- **Einträge im Navigationsmenü: Menüeintrag hinzufügen**: Sie können dem Menü neue Elemente hinzufügen. Klicken Sie auf **Menüeintrag hinzufügen** und wählen Sie aus dem Dropdown-Menü aus. Zusätzlich zu den vorprogrammierten Links können Sie auch eine unbegrenzte Anzahl eigener Links hinzufügen. Es gibt zwei Arten von eigenen Links:
+- **Einträge im Navigationsmenü > Menüeintrag hinzufügen**: Sie können dem Menü neue Elemente hinzufügen. Klicken Sie auf **Menüeintrag hinzufügen** und wählen Sie aus dem Dropdown-Menü aus. Zusätzlich zu den vorprogrammierten Links können Sie auch eine unbegrenzte Anzahl eigener Links hinzufügen. Es gibt zwei Arten von eigenen Links:
 
 Eigene Seite: Wenn Sie eine neue Webseite (z. B. „Zeitschriftengeschichte“) zum Hauptmenü von OJS hinzufügen möchten, wählen Sie Eigene Seite, um eine statische Seite zu erstellen. Geben Sie Ihrer neuen Seite einen Titel und wählen Sie einen URL-Pfad, wobei Sie darauf achten sollten, dass der Pfad eindeutig ist. Eigene Seiten können für zusätzliche Inhalte genutzt werden, die sonst auf Ihrer Website nicht verfügbar sind. Sie müssen manuell aktualisiert werden, indem Sie die entsprechende Bearbeiten-Schaltfläche in der Liste der Einträge im Navigationsmenü verwenden.
 
 Remote URL: Wenn Sie einen Link zu einer externen Website außerhalb von OJS (z. B. „Unsere Gesellschaft“) hinzufügen möchten, wählen Sie **Remote URL** und geben Sie die vollständige URL ein. Es ist eine gute Praxis, die Remote URL regelmäßig zu überprüfen, um sicherzustellen, dass sie weiterhin funktioniert.
 
-![Bildschirm "Eintrag hinzufügen" mit Titel und ausgefüllter Remote-URL.](./assets/learning-ojs3.1-jm-settings-web-navmenu-add.png)
+![Der Bildschirm "Eintrag hinzufügen" mit Titel und ausgefüllter Remote-URL.](./assets/learning-ojs3.1-jm-settings-web-navmenu-add.png)
 
 Sobald erstellt, erscheinen eigene Links in der Liste der Einträge im Navigationsmenü. Gehen Sie als Nächstes zum gewünschten Navigationsmenü (z. B. "Primary Navigation Menu"), klicken Sie auf den blauen Pfeil, um die Optionen anzuzeigen, und wählen Sie „Bearbeiten“. Sie können den Eintrag nun per Drag & Drop von „Nicht zugewiesenen Menüeinträge“ zu „Zugewiesene Menüeinträge“ und an die gewünschte Stelle im Menü ziehen.
 
-![Hauptnavigationsbereich mit einer Liste von zugewiesenen und nicht zugewiesenen Menüpunkten.](./assets/learning-ojs3.1-jm-settings-web-navmenu-add-nav.png)
+![Der Hauptnavigationsbereich mit einer Liste von zugewiesenen und nicht zugewiesenen Menüeinträgen.](./assets/learning-ojs3.1-jm-settings-web-navmenu-add-nav.png)
 
 Drücken Sie auf Speichern, um die Änderung zu übernehmen.
 
@@ -158,7 +158,7 @@ Dieses PKP School-Video erklärt, wie Sie die Einstellungen für Ankündigungen 
 
 In diesem Abschnitt können Sie Mitteilungen auf der Website der Zeitschrift erstellen und anzeigen.
 
-![OJS Dashboard-Ansicht des Ankündigungen-Menüs mit einer Option zum Aktivieren und Anzeigen von Ankündigungen.](./assets/learning-ojs3.1-jm-settings-web-announce.png)
+![Die OJS Dashboard-Ansicht des Ankündigungen-Menüs mit einer Option zum Aktivieren und Anzeigen von Ankündigungen.](./assets/learning-ojs3.1-jm-settings-web-announce.png)
 
 - **Mitteilungen**: Aktivieren Sie diese Option, wenn Sie Mitteilungen auf Ihrer Website verwenden möchten.
   - **Zusätzliche Informationen**: Geben Sie allgemeine Informationen ein, die auf Ihrer Mitteilungsseite angezeigt werden sollen.
@@ -172,7 +172,7 @@ Wenn Sie eine E-Mail-Benachrichtigung an alle Nutzer/innen senden möchten (die 
 
 Die Mitteilung sollte nun auf einem Reiter „Mitteilungen“ auf der öffentlichen Zeitschriften-Website erscheinen.
 
-![OJS 3.3 Mitteilungen-Menü in der Seitenleiste aktiviert, mit einer Möglichkeit, Mitteilungen hinzuzufügen und zu bearbeiten. (./assets/learning-ojs3.3-settings-website-announcements.png)
+![OJS 3.3 Mitteilungen-Menü in der Seitenleiste aktiviert, mit einer Möglichkeit, Mitteilungen hinzuzufügen und zu bearbeiten.](./assets/learning-ojs3.3-settings-website-announcements.png)
 
 Dieses PKP School-Video erklärt, wie Sie die Website-Einstellungen in OJS konfigurieren (in englischer Sprache). Weitere Videos dieser Reihe finden Sie auf dem [PKP YouTube-Kanal](https://www.youtube.com/playlist?list=PLg358gdRUrDVTXpuGXiMgETgnIouWoWaY).
 
@@ -188,7 +188,7 @@ Geben Sie die Datenschutzerklärung ein, die auf Ihrer Website angezeigt werden 
 
 ### Datum & Uhrzeit
 
-Diese Option ermöglicht die Konfiguration unterschiedlicher Datums- und Uhrzeitformate für jede Zeitschrift und jedes Schema, die zuvor nur in der Datei „config.inc.php“ eingerichtet werden konnten. Beachten Sie, dass die Datei `config.inc.php` weiterhin verwendet werden kann, um Zeit- und Datumsformate für mehrere Zeitschriften festzulegen. Die Einstellungen für das primäre Zeitschema dienen als Standard für andere Zeitschemata, sofern nicht anders konfiguriert.  Ein benutzerdefiniertes Format kann mit den [Sonderformat-Zeichen](https://www.php.net/manual/en/function.strftime.php#refsect1-function.strftime-parameters) eingegeben werden.
+Diese Option ermöglicht die Konfiguration unterschiedlicher Datums- und Uhrzeitformate für jede Zeitschrift und jedes Schema, die zuvor nur in der Datei „config.inc.php“ eingerichtet werden konnten. Beachten Sie, dass die Datei `config.inc.php` weiterhin verwendet werden kann, um Zeit- und Datumsformate für mehrere Zeitschriften festzulegen. Die Einstellungen für das primäre Zeitschema dienen als Standard, sofern nicht anders konfiguriert.  Ein benutzerdefiniertes Format kann mit den [special format characters](https://www.php.net/manual/en/function.strftime.php#refsect1-function.strftime-parameters) eingegeben werden.
 
 ![OJS 3.3 Datums- und Zeitmenü mit einer Option, um Lang- und Kurzdatumsformate auszuwählen.](./assets/learning-ojs3.3-date-and-time-setup.png)
 
@@ -265,7 +265,7 @@ Um das Plugin zu konfigurieren:
 - Klicken Sie auf den blauen Pfeil neben dem Namen des Plugins.
 - Klicken Sie auf den Link **Einstellungen**, der unten erscheint.
 
-!["Citation Style Language"-Plugin Einstellungen-Button.](./assets/learning-ojs-settings-plugin-citation-2.png)
+![Einstellungen-Button des "Citation Style Language"-Plugins.](./assets/learning-ojs-settings-plugin-citation-2.png)
 
 - Wählen Sie das primäre Format für bibliographische Angaben aus, das Sie von der ersten Liste verwenden möchten, gefolgt von den zusätzlichen Formaten für bibliografische Angaben, die über die zweite Liste verfügbar sein sollen.
 - Als Nächstes können Sie optional ein herunterladbares Format auswählen, das den Leser/innen für den Export in eine Literaturverwaltungssoftware zur Verfügung gestellt werden soll.
@@ -287,19 +287,19 @@ Benutzerdefinierte Blöcke konfigurieren und hinzufügen:
 - Beim Hinzufügen eines neuen Blocks ist die Angabe eines Namens für den Block erforderlich. In den aktuelleren Versionen können Sie Leerzeichen in den Namen einfügen sowie auswählen, ob der Name über dem Blockinhalt angezeigt wird oder nicht.
 - Die Anzeige und die Reihenfolge der Blöcke können in der Seitenleiste im Dashboard > Einstellungen > Website > Aussehen > Einrichtung bearbeitet werden.
 
-#### Plugin "Angepasste Header"
+#### Plugin "Custom Header"
 
-Das Plugin "Angepasste Header" kann verwendet werden, um benutzerdefiniertes JavaScript zu einem Header oder Block hinzuzufügen. JavaScript ist oft erforderlich, um Ihre Website mit externen Diensten zu verknüpfen, kann aber aus Sicherheitsgründen nicht direkt in ein Feld eingefügt werden.
+Das Plugin "Custom Header" kann verwendet werden, um benutzerdefiniertes JavaScript zu einem Header oder Block hinzuzufügen. JavaScript ist oft erforderlich, um Ihre Website mit externen Diensten zu verknüpfen, kann aber aus Sicherheitsgründen nicht direkt in ein Feld eingefügt werden.
 
 Das Plugin kann in der Plugin-Galerie aktiviert werden.
 
-**Beispiel: Verwenden Sie das Plugin "Angepasste Header", um einen Twitter-Feed zu Ihrer Seitenleiste hinzuzufügen.**
+**Beispiel: Verwenden Sie das Plugin "Custom Header", um einen Twitter/X-Feed zu Ihrer Seitenleiste hinzuzufügen.**
 
 Sie können einen X-Feed für Ihr Journal, Ihren Verlag oder Ihre Organisation in der Seitenleiste von OJS oder OMP hinzufügen.
 
-Zuerst müssen Sie das "Angepasste Header"-Plugin aktivieren und konfigurieren, um JavaScript-Code zu einem benutzerdefinierten Block hinzufügen können:
+Zuerst müssen Sie das "Custom Header"-Plugin aktivieren und konfigurieren, um JavaScript-Code zu einem benutzerdefinierten Block hinzufügen können:
 
-1. Gehen Sie zu den Website-Einstellungen > Plugins und stellen Sie sicher, dass das "Angepasste Header"-Plugin installiert und aktiviert ist.
+1. Gehen Sie zu den Website-Einstellungen > Plugins und stellen Sie sicher, dass das "Custom Header"-Plugin installiert und aktiviert ist.
 2. Klicken Sie auf den blauen Pfeil neben dem Plugin-Namen und auf die **Einstellungen** Schaltfläche, die unten angezeigt wird.
 3. Fügen Sie Folgendes in das Header-Inhaltsfeld ein:
 
@@ -314,9 +314,9 @@ Als Nächstes erstellen Sie einen benutzerdefinierten Block:
 1. Gehen Sie erneut zu Installierte Plugins und aktivieren Sie das Plugin "Verwaltung benutzerdefinierter Blöcke".
 2. Klicken Sie auf den blauen Pfeil neben dem Plugin-Namen und auf **Benutzerdefinierte Blöcke** verwalten.
 3. Klicke **Block hinzufügen**
-4. Benennen Sie den Block, z.B. "X".
-5. Über dem **Inhalt** Feld klicke auf den **Source Code** Button
-6. Fügen Sie in das Pop-up-Fenster den folgenden Code ein - angepasst mit Link und Namen ihres eigenen Twitter-Accounts:
+4. Benennen Sie den Block, z. B. "X".
+5. Über dem **Inhalt** Feld klicken Sie auf den **Source Code**-Button
+6. Fügen Sie in das Pop-up-Fenster den folgenden Code ein - angepasst mit Link und Namen ihres eigenen Twitter/X-Accounts:
 
 ```html
 <a class="twitter-timeline" href="https://twitter.com/asmecher?ref_src=twsrc%5Etfw">Tweets by asmecher</a>
@@ -333,10 +333,10 @@ Als Nächstes erstellen Sie einen benutzerdefinierten Block:
 Schließlich muss der benutzerdefinierte Block, der gerade erstellt wurde, der Seitenleiste hinzugefügt werden.
 
 1. Gehen Sie zu den Website-Einstellungen > Aussehen und scrollen Sie nach unten zu **Seitenleiste**
-2. Der Twitter-Block sollte unter Nicht ausgewählt erscheinen.
-3. Ziehe den Block per Drag and drop in die **Seitenleiste**. Alle Blöcke können in der gewünschten Reihenfolge verschoben werden.
+2. Der Twitter/X-Block sollte unter Nicht ausgewählt erscheinen.
+3. Ziehe den Block per Drag and drop in die **Seitenleiste**. Alle Blöcke können in die gewünschte Reihenfolge verschoben werden.
 
-Eine weitere Option stellt das [Twitter Sidebar plugin](https://github.com/RBoelter/ojs3-twitter-sidebar) dar. Dieses Plugin erstellt einen Twitter-Block für die Seitenleiste.
+Eine weitere Option stellt das [Twitter Block plugin](https://github.com/RBoelter/ojs3-twitter-sidebar) dar. Dieses Plugin erstellt einen Twitter/X-Block für die Seitenleiste.
 
 #### Disqus-Plugin
 
@@ -344,18 +344,18 @@ Das [Disqus plugin](https://github.com/ajnyga/disqus) integriert sich mit [Disqu
 
 Das Disqus-Plugin ist ein Drittanbieter-Plugin, das aus dessen Github-Repository installiert werden muss.
 
-Nachdem Sie das Plugin installiert und aktiviert haben, müssen Sie sich auf der [Disqus-Website](https://disqus.com) registrieren. Bei der Registrierung wählen Sie die Option "Use Disqus on your website". Bei der Registrierung entscheiden Sie sich für einen der kostenlosen und kostenpflichtigen Tarife von Disqus.
+Nachdem Sie das Plugin installiert und aktiviert haben, müssen Sie sich auf der [Disqus-Website](https://disqus.com) registrieren. Bei der Registrierung wählen Sie die Option "Use Disqus on your website". Bei der Registrierung entscheiden Sie sich für einen der kostenlosen oder kostenpflichtigen Tarife von Disqus.
 
 Wenn Sie gebeten werden, Ihren **Website-Namen** zu registrieren, erstellen Sie einen Namen basierend auf Ihrem Journalnamen. Dieser erscheint in Disqus-Feeds, E-Mail-Benachrichtigungen und in Ihrem Community-Tab. Zum Beispiel "pkpworkshopsjournal".
 
-Überspringen Sie den Schritt **Install Disqus** und gehen Sie zu **Configure Disqus**. Geben Sie Ihre Journal-URL in das Feld **Website URL** ein. Geben Sie Ihre Kommentar-Richtlinie an, soweit zutreffend.
+Überspringen Sie den Schritt **Install Disqus** und gehen Sie zu **Configure Disqus**. Geben Sie Ihre Journal-URL in das Feld **Website URL** ein. Geben Sie Ihre Kommentar-Richtlinien an, soweit zutreffend.
 
 ![Disqus-Menü auf der Disqus-Website konfigurieren.](./assets/learning-ojs-3.2-settings-plugin-disqus-configure-disqus.png)
 
 Jetzt können Sie das Disqus-Plugin auf Ihrer Journal-Seite konfigurieren:
 
-1. Gehe zu Website-Einstellungen > Plugins.
-2. Gehe zum Disqus-Plugin.
+1. Gehen Sie zu Website-Einstellungen > Plugins.
+2. Gehen Sie zum Disqus-Plugin.
 3. Klicken Sie auf den blauen Pfeil neben dem Plugin-Namen und auf die **Einstellungen** Schaltfläche, die unten angezeigt wird.
 4. Geben Sie den Namen der Webseite aus Ihrem Disqus-Konto in das Feld **Disqus Forum Kurzname** ein.
 5. Klicken Sie auf **OK**
@@ -382,20 +382,20 @@ Es wird ein kostenloses Hypothes.is-Konto benötigt, um sich an der öffentliche
 
 ![Hypothes.is-Ansicht neben einer HTML-Fahne mit teilweise hervorgehobenem Beispieltext.](./assets/learning-ojs-settings-plugin-hypothesis-2.png)
 
-#### "Schlagwortwolke"-Plugin
+#### "Keyword Cloud"-Plugin
 
-Dieses Plugin zeigt eine Tag-Cloud von Schlüsselwörtern in der Seitenleiste Ihres Journals oder Verlags an.
+Dieses Plugin zeigt eine Tag-Cloud von Schlagwörtern in der Seitenleiste Ihrer Zeitschrift oder Ihres Verlags an.
 
 ![Keyword-Cloud, die auf einer Zeitschriftenseite angezeigt wird.](./assets/learning-ojs-settings-plugin-keyword.png)
 
 Dies ist ein Plugin von Drittanbietern und die Datei muss [von GitHub](https://github.com/lepidus/keywordCloud) heruntergeladen werden.
 
-Sobald Sie die Datei von GitHub heruntergeladen haben, laden Sie sie bei Ihrer Zeitschrift hoch und aktivieren Sie das Plugin. Es ist möglich, dass Sie dies nur in der Administrator/innen-Rolle durchführen können. Dadurch wird eine Schlagwort-Wolke als Block zur Verfügung gestellt, den Sie zur Seitenleiste Ihres Journals hinzufügen können.
+Sobald Sie die Datei von GitHub heruntergeladen haben, laden Sie sie bei Ihrer Zeitschrift hoch und aktivieren Sie das Plugin. Es ist möglich, dass Sie dies nur in der Administrator/innen-Rolle durchführen können. Dadurch wird eine Schlagwort-Wolke als Block zur Verfügung gestellt, den Sie zur Seitenleiste Ihrer Zeitschrift hinzufügen können.
 
 Um die Keyword-Cloud-Anzeige zur Seitenleiste hinzuzufügen:
 
-1. Gehen Sie zu Einstellungen > Webseite > Aussehen > Seitenleiste.
-2. Ziehen Sie den Schlagwortwolke-Block aus der **Nicht selektiert-Spalte** in die **Spalte Seitenleiste**.
+1. Gehen Sie zu Einstellungen > Website > Aussehen > Seitenleiste.
+2. Ziehen Sie den Keyword Cloud-Block aus der **Nicht ausgewählt-Spalte** in die **Spalte Seitenleiste**.
 3. Ordnen Sie die Reihenfolge der Blöcke bei Bedarf neu an.
 4. Klicken Sie auf **Speichern**.
 
@@ -409,13 +409,13 @@ Dieses Plugin erstellt einen „Most read articles“-Abschnitt in der Seitenlei
 
 Dies ist ein Plugin von Drittanbietern und die Datei muss [von GitHub](https://github.com/ajnyga/mostRead) heruntergeladen werden.
 
-_Dieses Plugin ist kompatibel mit den OJS-Versionen 3.1.2 oder höher. Es wird gerade für OJS 3.2._ angepasst
+\*Dieses Plugin ist kompatibel mit den OJS-Versionen 3.1.2 oder höher.
 
 Sobald Sie die Datei von GitHub heruntergeladen haben, laden Sie sie bei Ihrer Zeitschrift hoch und aktivieren Sie sie. Es ist möglich, dass Sie dies nur in der Administrator/innen-Rolle durchführen können. Dadurch wird ein „Most Read"-Block erzeugt, den Sie zur Seitenleiste Ihrer Zeitschrift hinzufügen können.
 
 Um diesen Block zu Ihrer Seitenleiste hinzuzufügen:
 
-1. Gehen Sie zu Einstellungen > Webseite > Aussehen > Seitenleiste.
+1. Gehen Sie zu Einstellungen > Website > Aussehen > Seitenleiste.
 2. Ziehen Sie den "Most Read"-Block aus der **Spalte Nicht ausgewählt** in die **Spalte Seitenleiste**.
 3. Ordnen Sie die Reihenfolge der Blöcke bei Bedarf neu an.
 4. Klicken Sie auf **Speichern**.
@@ -424,9 +424,9 @@ Der Block erscheint nun in der Seitenleiste Ihrer Zeitschrift.
 
 #### "Recommend Articles by Author"-Plugin
 
-Dieses Plugin fügt eine Liste von Artikeln desselben Autors/derselben Autorin (mit entsprechenden Links) auf der Abstract-Seite eines Artikels ein.
+Dieses Plugin fügt eine Liste von Artikeln desselben Autors/derselben Autorin (mit entsprechenden Links) auf der Abstract page eines Artikels ein.
 
-![Meistgelesene Artikel des- bzw. derselben Autoren mit Beispielartikel und Link.](./assets/learning-ojs-settings-plugin-author-rec.png)
+![Meistgelesene Artikel des- bzw. derselben Autor/innen mit Beispielartikel und Link.](./assets/learning-ojs-settings-plugin-author-rec.png)
 
 Das Plugin kann in der Plugin-Galerie aktiviert werden.
 
@@ -434,22 +434,22 @@ Sobald diese Option aktiviert ist, ist keine zusätzliche Konfiguration erforder
 
 #### "Ähnliche Artikel empfehlen"-Plugin
 
-Dieses Plugin fügt eine Liste ähnlicher Artikel zur Abstract-Seite hinzu.
+Dieses Plugin fügt eine Liste ähnlicher Artikel zur Abstract page hinzu.
 
 Das Plugin kann in der Plugin-Galerie aktiviert werden.
 
 Sobald diese Option aktiviert ist, ist keine zusätzliche Konfiguration erforderlich.
 
-#### Nutzungsstatistik-Bericht-Plugin
+#### Nutzungsstatistik-Plugin
 
 Dieses Plugin zeigt die Anzahl der Downloads eines Artikels auf der Artikelseite an.
 
-![Balkendiagramm der Artikeldownloads die auf einer Artikelseite durch das Nutzungsstatistik-Plugin.](./assets/learning-ojs-settings-plugin-usage-stats.png)
+![Balkendiagramm der Artikeldownloads das auf einer Artikelseite durch das Nutzungsstatistik-Plugin erstellt wurde.](./assets/learning-ojs-settings-plugin-usage-stats.png)
 
-Um das Nutzungsstatistik-Bericht-Plugin zu konfigurieren, werden **Adminstrator/innen-Rechte** benötigt.
+Um das Nutzungsstatistik-Plugin zu konfigurieren, werden **Adminstrator/innen-Rechte** benötigt.
 
 1. Gehen Sie zu Einstellungen > Website > Plugins.
-2. Unter Generische Plugins finden Sie das Nutzungsstatistik-Bericht-Plugin.
+2. Unter "Generische Plugins" finden Sie das Nutzungsstatistik-Plugin.
 3. Klicken Sie auf den blauen Pfeil links neben dem Plugin-Namen.
 4. Klicken Sie auf Einstellungen.
 5. Scrollen Sie zum unteren Rand des Pop-up-Fensters, das sich im Abschnitt Statistikanzeige-Optionen öffnet.
