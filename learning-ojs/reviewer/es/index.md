@@ -1,5 +1,5 @@
 ---
-book: aprendiendo-ojs
+book: aprender-ojs
 version: 3.5
 title: Guía de OJS para revisores
 description: Una guía sobre cómo aceptar o rechazar una solicitud de revisión y completar una evaluación por pares para una revista en OJS.
